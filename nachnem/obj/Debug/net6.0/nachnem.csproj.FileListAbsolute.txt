@@ -1,0 +1,15 @@
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\bin\Debug\net6.0\nachnem.exe
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\bin\Debug\net6.0\nachnem.deps.json
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\bin\Debug\net6.0\nachnem.runtimeconfig.json
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\bin\Debug\net6.0\nachnem.dll
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\bin\Debug\net6.0\nachnem.pdb
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\obj\Debug\net6.0\nachnem.csproj.AssemblyReference.cache
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\obj\Debug\net6.0\nachnem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\obj\Debug\net6.0\nachnem.AssemblyInfoInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\obj\Debug\net6.0\nachnem.AssemblyInfo.cs
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\obj\Debug\net6.0\nachnem.csproj.CoreCompileInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\obj\Debug\net6.0\nachnem.dll
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\obj\Debug\net6.0\refint\nachnem.dll
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\obj\Debug\net6.0\nachnem.pdb
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\obj\Debug\net6.0\nachnem.genruntimeconfig.cache
+C:\Users\днс\OneDrive\Рабочий стол\third\nachnem\obj\Debug\net6.0\ref\nachnem.dll
